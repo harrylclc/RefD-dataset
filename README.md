@@ -41,3 +41,10 @@ Please cite the following papers if you use this data.
   organization={Association for Computational Linguistics}
 }
 ```
+If you have any problems, please contact Chen Liang at <cul226@ist.psu.edu>.
+
+
+## License
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
+![Alt](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
